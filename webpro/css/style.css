@@ -1,0 +1,55 @@
+*{
+		margin: 0;
+	    padding: 0x;
+	}
+	Body{
+		background: url(../images/gceo.jpg) no-repeat center
+		fixed;
+		background-size cover;
+	}
+	h1{
+		text-align: left;
+		color: purple;
+		background: rgba(0,0,0,0,5);
+	    padding: 1px;
+
+	}
+	.registration{
+		margin: auto;
+		width: 55%;
+		text-align: right;
+		color: Blue;
+		background: rgba(0,0,0,0,5);
+		border: 2px solid white;
+		padding: 15px;
+		
+	}
+	#name{
+		 width: 45.8%;
+		 padding: 5px; 
+		 border-radius: 5px;
+		 border: 1px solid white;
+		 outline: 0;
+		 font-family: serif;
+		 font-size: 18px;
+		 background:non;
+		 
+	}
+	#number{
+		 width: 45.8%;
+		 padding: 5px; 
+		 border-radius: 5px;
+		 border: 1px solid white;
+		 outline: 0;
+		 font-family: serif;
+		 font-size: 18px;
+		 background:non;
+	}
+	#num{
+		 padding: 7px 0px; 
+		 border-radius: 5px;
+		 border: 1px solid white;
+		 outline: 0;
+		 background:non;
+		 color: blue;
+	}
